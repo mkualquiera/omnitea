@@ -1,0 +1,2 @@
+# omnitea
+Discord bot
